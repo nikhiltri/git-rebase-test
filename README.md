@@ -5,6 +5,8 @@ Testing rebase workflow.
 3. Rebase current branch onto `master` or `dev`
 4. Squash commits
 
-Making changes for devel and feature #1.
+Making changes for devel and feature #1. Making correct changes for feature #4. Huzzah! More changes.
+
+Another commit for good measure.
 
 Make feature changes.
